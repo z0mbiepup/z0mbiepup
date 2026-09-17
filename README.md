@@ -1,9 +1,6 @@
 <div align=center> 
 
-
-![](siteinprogress.png)
-
-why don't you ask me what it feels like to be a freak ?
+lalalala wip
 
 <sub>   </sub>
 
