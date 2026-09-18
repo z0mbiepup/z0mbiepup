@@ -1,8 +1,13 @@
-<div align=center> 
+<div align=center>
 
-lalalala wip
+![](yattastand.png)
 
-<sub>   </sub>
+**kenzi** <ins>or</ins> **yatta** !
+
+![](siteinprogress.png)
+
+<sub> bro if anyone knows how to put text to the right my stupid image lmk bcus i cannot for the life of me figure it out </sub>
+  
 
 <details>
 <summary>    </summary>
