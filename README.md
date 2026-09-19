@@ -1,8 +1,12 @@
 <div align=center>
 
+![](divtop.png)
+
 ![](yattastand.png)
 
 **kenzi** <ins>or</ins> **yatta** !
+
+![](div.png)
 
 ![](siteinprogress.png)
 
