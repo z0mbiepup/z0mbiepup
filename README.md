@@ -9,6 +9,8 @@
 ![](div.png)
 
 ![](siteinprogress.png)
+
+just a kid with a pad and pen and a big imagination
   
 
 <details>
