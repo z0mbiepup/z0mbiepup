@@ -1,24 +1,48 @@
-<div align=center>
-
+<div align="left" width= "450">
+  
 ![](divtop.png)
 
-![](yattastand.png)
+</div>
 
-**kenzi** <ins>or</ins> **yatta** !
-
-![](div.png)
-
-![](siteinprogress.png)
-
-just a kid with a pad and pen and a big imagination
+  <img align="left" img src="https://github.com/z0mbiepup/z0mbiepup/blob/main/yattastand.png" width="350"/>
+<div align="left">
+  big fat wip alright? alright.
   
-titles
+&nbsp;
+  
+&nbsp;
+  
+&nbsp;
+  
+&nbsp; 
+  
+&nbsp; 
+  
+&nbsp;       
+
+&nbsp;          
+  
+&nbsp;
+
+</div>
+
+<div align="left" width= "500">
+  
+![](divbottom.png)
+
+</div>
+
+<div align="center">
+  
+<sub> titles </sub>
 
 <details>
 <summary>    </summary>
 
-<sub> [@pt-fashion](https://github.com/pt-fashion) [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@ponytowns-ships](https://github.com/Ponytowns-ships) [pt-heavyfictkin](https://github.com/pt-heavyfictkin)</sub>
+<sub> [@pt-fashion](https://github.com/pt-fashion) [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@ponytowns-ships](https://github.com/Ponytowns-ships) [pt-heavyfictkin](https://github.com/pt-heavyfictkin) [kaotown](https://github.com/kaotown)</sub>
 
 <sub> previously known as PARTYPUPPYY </sub>
 
 </details>
+
+</div>
