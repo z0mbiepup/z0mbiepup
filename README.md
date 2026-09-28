@@ -1,12 +1,21 @@
+<div align="center">
+
+biiiig fat wip
+
+</div>
+
 <div align="left" width= "450">
-  
+
 ![](divtop.png)
 
 </div>
 
   <img align="left" img src="https://github.com/z0mbiepup/z0mbiepup/blob/main/yattastand.png" width="350"/>
 <div align="left">
-  big fat wip alright? alright.
+  
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $\color{#ce80c2}{\text{kenzi}}$ &nbsp; &nbsp; &nbsp; $\color{#efb5c6}{\text{or}}$  &nbsp; &nbsp; &nbsp; $\color{#ffe4cc}{\text{yatta}}$ &nbsp; &nbsp; $\color{#ce80c2}{\text{◡◡}}$ 
+ 
+ $\color{#ce80c2}{\text{16 , }}$ $\color{#efb5c6}{\text{under 14}}$ $\color{#ffe4cc}{\text{dni}}$ 
   
 &nbsp;
   
