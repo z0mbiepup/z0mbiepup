@@ -48,7 +48,7 @@ biiiig fat wip
 <details>
 <summary>    </summary>
 
-<sub> [@pt-fashion](https://github.com/pt-fashion) [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@ponytowns-ships](https://github.com/Ponytowns-ships) [pt-heavyfictkin](https://github.com/pt-heavyfictkin) [kaotown](https://github.com/kaotown)</sub>
+<sub> [@pt-fashion](https://github.com/pt-fashion) [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@ponytowns-ships](https://github.com/Ponytowns-ships) [pt-heavyfictkin](https://github.com/pt-heavyfictkin) [kaotown](https://github.com/kaotown) [ponytowns-rewards](https://github.com/Ponytowns-rewards)</sub>
 
 <sub> previously known as PARTYPUPPYY </sub>
 
