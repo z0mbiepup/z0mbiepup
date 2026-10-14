@@ -1,6 +1,6 @@
 <div align="center">
 
-biiiig fat wip
+halfway thru thiz and now i wanna retheme it . BRO
 
 </div>
 
@@ -37,16 +37,15 @@ biiiig fat wip
 <img align="left" img src="https://github.com/z0mbiepup/z0mbiepup/blob/main/divtop.png" width="600"/>
 <div align="left">
 
-<div align="center">
-
 &nbsp;
 &nbsp;
 
-</div>
 
 <div align="center">
   
-<sub> titles </sub>
+<sub> titlez </sub>
+
+</div>
 
 <details>
 <summary>    </summary>
@@ -57,4 +56,3 @@ biiiig fat wip
 
 </details>
 
-</div>
