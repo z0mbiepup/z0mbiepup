@@ -64,3 +64,9 @@ wip forever bcus im retheming
 </details>
 
 </div>
+
+<div align=center>
+
+[ata](https://z0mbiepup.atabook.org) [prns.cc](https://pronouns.cc/@zombiepup)
+
+</div>
