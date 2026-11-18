@@ -57,7 +57,7 @@ wip forever bcus im retheming
 <summary>    </summary>
 
 <sub> [@pt-fashion](https://github.com/pt-fashion) [@pt-hall-of-media](https://github.com/pt-hall-of-media) [@pt-walk-of-fame](https://github.com/pt-walk-of-fame) [@ponytowns-ships](https://github.com/Ponytowns-ships) [pt-heavyfictkin](https://github.com/pt-heavyfictkin) [kaotown](https://github.com/kaotown) [ponytowns-rewards](https://github.com/Ponytowns-rewards) [piddlesjet](https://github.com/piddlesjet) [NO[LI]MINATIONS
-](https://github.com/THE-TEMPIST) </sub>
+](https://github.com/THE-TEMPIST) [animal-town](https://github.com/animal-town) </sub>
 
 <sub>  PARTYPUPPYY = old user</sub>
 
