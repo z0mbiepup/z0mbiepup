@@ -1,8 +1,11 @@
 <div align=center>
 
-<img src="https://i.postimg.cc/PqgQY5wq/yattasona.png" width="400" alt="yattasona">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cherry+Bomb&pause=1000&color=E298FF&center=true&vCenter=true&width=435&lines=candy+%2C+candy+%2C+caNDY+FOR+ALL+!!)](https://git.io/typing-svg)
+
+<img src="https://i.postimg.cc/nLGqjGpm/yyattasona.png" width="400" alt="yattasona">
   
-[ata](https://z0mbiepup.atabook.org) [prns.cc](https://pronouns.cc/@zombiepup)
+[atabook](https://z0mbiepup.atabook.org)
+
 
 <sub>  </sub>
 
