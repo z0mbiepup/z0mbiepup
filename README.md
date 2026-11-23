@@ -4,7 +4,7 @@
 
 <img src="https://i.postimg.cc/nLGqjGpm/yyattasona.png" width="400" alt="yattasona">
   
-[atabook](https://z0mbiepup.atabook.org)
+[新book](https://z0mbiepup.atabook.org)
 
 
 <sub>  </sub>
